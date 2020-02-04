@@ -4,7 +4,7 @@
 
 1. clone or download .zip this project.
    
-2. on terminal within project folder run: yarn or npm (for download modules)
+2. on terminal within project folder run: yarn or npm i (for download modules)
 
 3. run: yarn dev (port 3000)
 
