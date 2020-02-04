@@ -2,7 +2,7 @@
 
 **Steps for running**
 
-1. clone or get .zip this project.
+1. clone or download .zip this project.
    
 2. on terminal within project folder run: yarn or npm (for download modules)
 
